@@ -23,7 +23,7 @@ namespace CustomList
 
         public void AdditionToIndex(int firstNumber)
         {
-            
+            AdditionToIndex add = new AdditionToIndex();
         }
 
         public int Capacity { get; set; }
